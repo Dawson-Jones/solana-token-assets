@@ -2,7 +2,7 @@
     "name": "Gulu",
     "symbol": "GULU",
     "description": "A cat named Gulu, a cute and playful feline.",
-    "image": "https://raw.githubusercontent.com/Dawson-Jones/solana-token-assets/refs/heads/main/test-token/gulu-cat.svg",
+    "image": "https://raw.githubusercontent.com/Dawson-Jones/solana-token-assets/refs/heads/main/test-token/gulu-cat.png",
     "attributes": [
       {
         "trait_type": "Item",
